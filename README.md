@@ -11,3 +11,10 @@ Your output should be a file called ```plaintext.txt``` that contains all of the
 
 
 If you need any further assisstance, please do not hesitate to ask.
+
+## Important
+1. Please comment your code. 
+2. Use good variable names following proper pyton convention (snake_case)
+3. You will be marked on coding style and program correctness
+4. If your program does not compile, ask me what's up and I'll help... if it does not compile after the due date, you will be losing marks.
+5. Have fun
